@@ -1,0 +1,6 @@
+from pathlib import Path
+
+MAIN_DIR = Path("..")
+DATA_DIR_NAME = "data"
+EXCEL_FILE_NAME = "SCRAPING_SOCIETE.xlsx"
+DATA_DIR_PATH = MAIN_DIR / DATA_DIR_NAME
